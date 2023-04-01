@@ -10,7 +10,7 @@ A convenient and resource-free for online retrieval of news that support or oppo
 Python3
 
 ### Backend
-* Download the [run]() file
+* Download the [run](https://drive.google.com/file/d/1wMmfn7tovu6kGfJ3RlDiH1fP40KCTrEM/view?usp=share_link) file
 * May have to install dependencies listed in <b>backend/requirements</b>
 * Run <b>CUDA_VISIBLE_DEVICE=(your_gpu_index) run</b> from terminal
 ### Frontend
